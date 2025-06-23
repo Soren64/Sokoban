@@ -56,6 +56,8 @@ Any levels created should follow this symbol table:
 | `A`    | Box on Floor    | Box placed on normal floor        |
 | `1`    | Box on Goal     | Box correctly placed on a goal    |
 
+The first line of the file should include the level dimensions. 
+Must match exactly or will cause issues.
 
 Controls
 Move player: Arrow keys or W/A/S/D
